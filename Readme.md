@@ -157,12 +157,6 @@ aws ecs update-service --service $SERVICE --cluster $CLUSTER --task-definition "
 aws logs create-log-group --log-group-name `jq ".log" -r config/env.json`
 ```
 
-## Move all the static folders to  s3
-
-aws --profile ch4devops s3  mv few s3://few-junglepass  --acl public-read --recursive
-aws --profile ch4devops s3  mv admin s3://admin-junglepass  --acl public-read --recursive
-aws --profile ch4devops s3  mv merchant s3://merchant-junglepass  --acl public-read --recursive
-
 ## Automate explicitly all the use cases
 
 read the `script` folder.   
