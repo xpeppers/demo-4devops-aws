@@ -16,7 +16,7 @@ The app folder contains the sourcecode, the Dockerfile is a flask app with an he
 
 ## Test if it works
 
-`curl -sL -w "%{http_code}\n"  http://0.0.0.0:80/`
+`curl -sL -w "\nstatus: %{http_code}\n"  http://0.0.0.0:8000/`
 
 > Hello! I am tiny service on <br> Hostname:"255edaace911"<br> Color:"green"<br> Version:"latest"<br> Visit count:171 times.
 > 200
