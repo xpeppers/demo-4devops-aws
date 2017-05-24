@@ -1,0 +1,50 @@
+[
+  {
+    "ParameterKey": "AccountName",
+    "ParameterValue": "wsc"
+  },
+  {
+    "ParameterKey": "Environment",
+    "ParameterValue": "dev"
+  },
+  {
+    "ParameterKey": "VpcCidr",
+    "ParameterValue": "10.232.16.0/20"
+  },
+  {
+    "ParameterKey": "PrivateSubnetCidrA",
+    "ParameterValue": "10.232.20.0/24"
+  },
+   {
+    "ParameterKey": "PrivateSubnetCidrB",
+    "ParameterValue": "10.232.21.0/24"
+  },
+  {
+    "ParameterKey": "PrivateSubnetCidrC",
+    "ParameterValue": "10.232.22.0/24"
+  },
+  {
+    "ParameterKey": "PublicSubnetCidrA",
+    "ParameterValue": "10.232.16.0/24"
+  },
+   {
+    "ParameterKey": "PublicSubnetCidrB",
+    "ParameterValue": "10.232.17.0/24 "
+  },
+  {
+    "ParameterKey": "PublicSubnetCidrC",
+    "ParameterValue": "10.232.18.0/24"
+  },
+  {
+    "ParameterKey": "IpCustomerGateway",
+    "ParameterValue": "81.208.106.4"
+  },
+  {
+    "ParameterKey": "VPNConnectionEnabled",
+    "ParameterValue": "false"
+  },
+  {
+    "ParameterKey": "OnPremiseCidr",
+    "ParameterValue": "10.126.0.0/15"
+  }
+]

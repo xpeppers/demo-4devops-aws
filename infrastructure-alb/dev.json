@@ -1,0 +1,22 @@
+[
+  {
+      "ParameterKey" : "Project",
+      "ParameterValue" : "4devops"
+  },
+  {
+      "ParameterKey" : "Environment",
+      "ParameterValue" : "ch"
+  },
+  {
+      "ParameterKey" : "Role",
+      "ParameterValue" : "MicroGreen"
+  },
+  {
+    "ParameterKey": "VpcId",
+    "ParameterValue": "vpc-ae748cd7"
+  },
+  {
+    "ParameterKey": "SubnetsList",
+    "ParameterValue": "subnet-56447333,subnet-255f9609,subnet-3ba92c73"
+  }
+]

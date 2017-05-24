@@ -1,0 +1,9 @@
+{
+    "repository": {
+        "registryId": "767847163887", 
+        "repositoryName": "faac/ch-4devops",
+        "repositoryArn": "arn:aws:ecr:us-east-1:767847163887:repository/faac/ch-4devops",
+        "createdAt": 1495448369.0, 
+        "repositoryUri": "767847163887.dkr.ecr.us-east-1.amazonaws.com/faac/ch-4devops"
+    }
+}

@@ -1,0 +1,46 @@
+[
+  {
+      "ParameterKey" : "Project",
+      "ParameterValue" : "ch4devops"
+  },
+  {
+      "ParameterKey" : "Environment",
+      "ParameterValue" : "Test"
+  },
+  {
+      "ParameterKey" : "Role",
+      "ParameterValue" : "Cluster"
+  },
+  {
+      "ParameterKey" : "KeyName",
+      "ParameterValue" : "US-East-1-ch4devopsPOC"
+  },
+  {
+      "ParameterKey" : "EC2InstanceProfile",
+      "ParameterValue" : "ch4devops-poc-ec2-role"
+  },
+  {
+      "ParameterKey" : "VpcId",
+      "ParameterValue" : "vpc-ae748cd7"
+  },
+  {
+      "ParameterKey" : "SubnetsList",
+      "ParameterValue" : "subnet-56447333,subnet-255f9609,subnet-3ba92c73"
+  },
+  {
+      "ParameterKey" : "DesiredCapacity",
+      "ParameterValue" : "2"
+  },
+  {
+      "ParameterKey" : "MinSize",
+      "ParameterValue" : "2"
+  },
+  {
+      "ParameterKey" : "MaxSize",
+      "ParameterValue" : "2"
+  },
+  {
+      "ParameterKey" : "InstanceType",
+      "ParameterValue" : "t2.large"
+  }
+]

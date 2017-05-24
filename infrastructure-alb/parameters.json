@@ -1,0 +1,22 @@
+[
+  {
+      "ParameterKey" : "Project",
+      "ParameterValue" : "4devops"
+  },
+  {
+      "ParameterKey" : "Environment",
+      "ParameterValue" : "ch"
+  },
+  {
+      "ParameterKey" : "Role",
+      "ParameterValue" : "ch4devops"
+  },
+  {
+    "ParameterKey": "VpcId",
+    "ParameterValue": "vpc-ae748cd7"
+  },
+  {
+    "ParameterKey": "SubnetsList",
+    "ParameterValue": "subnet-3ba92c73,subnet-255f9609,subnet-56447333"
+  }
+]
