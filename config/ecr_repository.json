@@ -4,6 +4,6 @@
         "repositoryName": "xpeppers/aws-ecs-4devops",
         "repositoryArn": "arn:aws:ecr:us-east-1:831650818513:repository/xpeppers/aws-ecs-4devops",
         "createdAt": 1495615425.0,
-        "repositoryUri": "831650818513.dkr.ecr.us-east-1.amazonaws.com/xpeppers/aws-ecs-4devops"
+        "repositoryUri": "198687425516.dkr.ecr.eu-west-1.amazonaws.com/repository"
     }
 }
