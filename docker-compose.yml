@@ -2,7 +2,7 @@ version: '2'
 services:
   web:
     build: .
-    volumes:
+    volumes:  
      - ./application:/application
     networks:
      - backend
